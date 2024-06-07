@@ -1,0 +1,22 @@
+# Object files
+*.o
+
+# Shell files
+*.bash
+
+# Make files
+*.mk
+
+# Execute files
+*.exe
+*.out
+*.app
+
+# NetBeans folders
+build/
+dist/
+private/
+
+# NetBeans files
+*/.dep.inc
+*.inc
